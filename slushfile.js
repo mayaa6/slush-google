@@ -1,6 +1,6 @@
 /*
  * slush-slush-google
- * https://github.com/mayaa6/slush-slush-google
+ * https://github.com/mayaa6/slush-google
  *
  * Copyright (c) 2017, Haochen Zhao
  * Licensed under the MIT license.

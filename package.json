@@ -1,18 +1,18 @@
 {
-    "name": "slush-slush-google",
+    "name": "slush-google",
     "description": "One command scaffold-er for Google's Web Starter Kit (v0.5.2). No questions asked!One command scaffold-er for Google's Web Starter Kit (v0.5.2). No questions asked!",
     "version": "0.1.0",
-    "homepage": "https://github.com/mayaa6/slush-slush-google",
+    "homepage": "https://github.com/mayaa6/slush-google",
     "author": {
         "name": "Haochen Zhao",
         "email": "enarkdia@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/mayaa6/slush-slush-google.git"
+        "url": "git://github.com/mayaa6/slush-google.git"
     },
     "bugs": {
-        "url": "https://github.com/mayaa6/slush-slush-google/issues"
+        "url": "https://github.com/mayaa6/slush-google/issues"
     },
     "license": "MIT",
     "main": "slushfile.js",
@@ -35,6 +35,11 @@
         "iniparser": "^1.0.5"
     },
     "keywords": [
-        "slushgenerator"
+        "slushgenerator",
+        "google",
+        "web",
+        "starter",
+        "kit",
+        "prototype"
     ]
 }

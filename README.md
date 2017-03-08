@@ -1,14 +1,14 @@
-# Slush Slush-google [![Build Status](https://secure.travis-ci.org/mayaa6/slush-slush-google.png?branch=master)](https://travis-ci.org/mayaa6/slush-slush-google) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-google.png)](http://badges.enytc.com/for/npm/slush-slush-google)
+# Slush Google [![Build Status](https://secure.travis-ci.org/mayaa6/slush-google.png?branch=master)](https://travis-ci.org/mayaa6/slush-google) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-google.png)](http://badges.enytc.com/for/npm/slush-google)
 
 > One command scaffold-er for Google's Web Starter Kit (v0.5.2). No questions asked!One command scaffold-er for Google's Web Starter Kit (v0.5.2). No questions asked!
 
 
 ## Getting Started
 
-Install `slush-slush-google` globally:
+Install `slush-google` globally:
 
 ```bash
-$ npm install -g slush-slush-google
+$ npm install -g slush-google
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-google
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-google
+$ mkdir my-slush-google
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-google && slush slush-google
+$ cd my-slush-google && slush slush-google
 ```
 
 ## Getting To Know Slush
@@ -35,10 +35,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/mayaa6/slush-slush-google/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/mayaa6/slush-google/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/mayaa6/slush-slush-google/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/mayaa6/slush-google/issues).
 
 ## License 
 
