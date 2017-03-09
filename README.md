@@ -1,6 +1,6 @@
 # Slush Google [![Build Status](https://secure.travis-ci.org/mayaa6/slush-google.png?branch=master)](https://travis-ci.org/mayaa6/slush-google) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-google.png)](http://badges.enytc.com/for/npm/slush-google)
 
-> One command scaffold-er for Google's Web Starter Kit (v0.5.2). No questions asked!One command scaffold-er for Google's Web Starter Kit (v0.5.2). No questions asked!
+> One command slush scaffold-er for the original latest  Google's Web Starter Kit (v0.6.5).
 
 
 ## Getting Started

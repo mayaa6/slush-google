@@ -1,10 +1,10 @@
 {
     "name": "slush-google",
     "description": "One command slush scaffold-er for the original latest  Google's Web Starter Kit (v0.6.5).",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/mayaa6/slush-google",
     "author": {
-        "name": "mayaa6",
+        "name": "Haochen Zhao",
         "email": "enarkdia@gmail.com"
     },
     "repository": {
